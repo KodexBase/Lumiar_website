@@ -1,0 +1,7 @@
+/* styles/main.css — Cascade entry point. Imports all partials in correct order. */
+
+@import './variables.css';
+@import './reset.css';
+@import './typography.css';
+@import './components.css';
+@import './sections.css';
